@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/v-day/static/css/main.63c4e21e.css",
+    "main.js": "/v-day/static/js/main.e3b4c67d.js",
+    "static/js/488.73196376.chunk.js": "/v-day/static/js/488.73196376.chunk.js",
+    "index.html": "/v-day/index.html",
+    "main.63c4e21e.css.map": "/v-day/static/css/main.63c4e21e.css.map",
+    "main.e3b4c67d.js.map": "/v-day/static/js/main.e3b4c67d.js.map",
+    "488.73196376.chunk.js.map": "/v-day/static/js/488.73196376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c4e21e.css",
+    "static/js/main.e3b4c67d.js"
+  ]
+}
